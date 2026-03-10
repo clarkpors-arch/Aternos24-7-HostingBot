@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Epstein",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "ICNHS-SMP.aternos.me",
+    "port": 29158,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm Clark's 24/7 Bot",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like kids!"
       ]
     },
     "chat-log": true,
